@@ -1,4 +1,5 @@
 ﻿// This script implements the "PASA" QoS prediction approach
+﻿//Paper title: Analysing Multiple QoS Attributes in Parallel Design Patterns-based Applications. 
 // Authors: Antonio Brogi, Marco Danelutto, Daniele De Sensi, Ahmad Ibrahim, Jacopo Soldani, Massimo Torquati
 // @copyright Computer Science Department, University of Pisa, Italy
 
