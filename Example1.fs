@@ -18,7 +18,6 @@ module Example1=
         else
             Light
 
-    
     let inline read_QoS (workload):QoS =
         match workload with
         | Light ->
