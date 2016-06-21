@@ -59,7 +59,6 @@ module Example1=
         for ph1 in ph_list do //for all heavy items
             ph <- ph1
             for probF in pf_list do //for all feedback
-                
                 let motivatingExample = Pipe[read;Feedback(Pipe[blur1;blur2],"blurred?",probF);write]
                 let mutable w =0
                 let mutable cL = Array.empty
