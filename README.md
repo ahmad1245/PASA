@@ -1,19 +1,20 @@
 # PASA
 This repository contains the source code of an F\# implementation of the PASA probabilistic approach for predicting QoS of parallel design patterns-based applications. Such approach has been presented in
 > _A. Brogi, M. Danelutto, D. De Sensi, A. Ibrahim, J. Soldani, M. Torquati <br>
-> ** Analysing Multiple QoS Attributes in Parallel Design Patterns-based Applications.** <br>
+> **Analysing Multiple QoS Attributes in Parallel Design Patterns-based Applications.** <br>
 > [Accepted in 9th International Symposium on High-Level Parallel Programming and Applications (HLPP 2016)]._ 
 
 If you wish to reuse the sources in this repository, please properly cite the above mentioned paper. Below you can find the BibTex reference:
 ```
 @article{PASA,
  author = {Antonio Brogi and Marco Danelutto and Daniele De~Sensi and Ahmad Ibrahim and Jacopo Soldani and Massimo Torquati},
- title = {Predicting the QoS of Parallel Design Patterns-based Applications},
- journal = {Accepted in 9th International Symposium on High-Level Parallel Programming and Applications (HLPP 2016)},
+ title = {Analysing Multiple QoS Attributes in Parallel Design Patterns-based Applications},
+ journal = {Proceedings of the 9th International Symposium on High-Level Parallel Programming and Applications (HLPP 2016)},
  volume = {},
  pages = {},
  year = {},
  issn = {}
+ note = {{\em [In Press]}}
 } 
 ```
 ## How to use PASA
